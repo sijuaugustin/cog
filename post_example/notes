@@ -1,0 +1,4 @@
+post man running
+http://127.0.0.1:8000/eg/
+
+{"data":{"name":"john"}}
