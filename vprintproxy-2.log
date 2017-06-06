@@ -1,0 +1,23 @@
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: Log for VMware Workstation pid=9716 version=11.1.2 build=build-2780323 option=Release
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: The process is 32-bit.
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: Host codepage=windows-1252 encoding=windows-1252
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: Host is Windows 8 Pro, 64-bit  (Build 9200)
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: DictionaryLoad: Cannot open file "C:\Users\sysadmin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: Msg_Reset:
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\sysadmin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: ----------------------------------------
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: PREF Optional preferences file not found at C:\Users\sysadmin\AppData\Roaming\VMware\config.ini. Using default values.
+2017-03-20T14:31:28.242+05:30| vthread-4| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: FILE: FileDeletionRetry: Non-retriable error encountered (vprintproxy-2.log): The system cannot find the file specified (2)
+2017-03-20T14:31:28.245+05:30| vthread-4| I120: Started, process id = 9716
+2017-03-20T14:31:28.245+05:30| vthread-4| I120:          pipe = \\.\pipe\vmware.vprint.6984.41.0
+2017-03-20T14:31:28.245+05:30| vthread-4| I120:          mutex = Global\vmware.vprint-s.6984.18467.1
+2017-03-20T14:31:28.246+05:30| vthread-4| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2017-03-20T14:31:28.246+05:30| vthread-4| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2017-03-20T14:31:28.246+05:30| vthread-4| I120: Got entry/stop functions
+2017-03-20T14:31:28.246+05:30| vthread-4| I120: Calling TP 'entry' function
+2017-03-20T14:31:28.273+05:30| vthread-4| I120: Waiting for mutex "Global\vmware.vprint-s.6984.18467.1" ...
+2017-03-20T14:32:14.558+05:30| vthread-4| I120: Mutex signalled
+2017-03-20T14:32:14.558+05:30| vthread-4| I120: Calling TP 'stop' function
+2017-03-20T14:32:15.270+05:30| vthread-4| I120: Cleaned up OK
+2017-03-20T14:32:15.270+05:30| vthread-4| I120: Exit
